@@ -3,7 +3,7 @@ Sinatra-HTML5-Boilerplate-ERb
 
 Joining in on the boilerplate fun, this is what I use when I don't want HAML.
 
-    $ git clone sinatra-html5boilerplate-erb-compass
+    $ git clone https://github.com/jondot/sinatra-html5boilerplate-erb-compass 
     $ cd sinatra-html5boilerplate-erb-compass
 
 In one terminal:
